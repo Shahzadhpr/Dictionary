@@ -48,6 +48,8 @@ A clean and responsive web application for searching English word meanings, pron
 ```
 dictionary/
 │
+├── 📁 image
+│   └── 🖼️ Demo.png
 ├── 📝 README.md
 ├── 🌐 index.html
 ├── 📄 script.js
