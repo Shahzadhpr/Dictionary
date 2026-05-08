@@ -4,6 +4,11 @@ A clean and responsive web application for searching English word meanings, pron
 
 ![Demo](./image/Demo.png)
 
+### 🔗 Visit the Project  
+Click the badge below to open the project 👇
+
+[![Open Dictionary](https://img.shields.io/badge/Open%20Dictionary-%23ae9cff?style=for-the-badge)](https://shahzadhpr.github.io/Dictionary)
+
 &nbsp;
 
 ## ✨ Features
